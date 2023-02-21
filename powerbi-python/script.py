@@ -20,7 +20,7 @@ df_2019_grupos = df_2019_2021.merge(df_grupos, how='inner', on='Estacao')
 # Criando uma nova coluna ID para o dataframe filtrado 
 df_2019_grupos.insert(0, 'ID', range(0, len(df_2019_grupos)))
 
-print(df_2019_grupos.head)
+print(df_2019_grupos)
 
 
 
