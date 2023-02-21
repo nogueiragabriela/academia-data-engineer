@@ -1,4 +1,4 @@
-# **Dashboard: Poluição do Atmosférica no Estado de São Paulo**
+# **Dashboard: Poluição Atmosférica no Estado de São Paulo**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
