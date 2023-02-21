@@ -10,6 +10,10 @@
 :heavy_check_mark: Importar os dados tratados para o power BI utilizando o código criado em Python  
 :heavy_check_mark: Criar um dashboard no Power BI com os dados importados.
 
-<img src="https://imgur.com/a/9uWruE6" alt="Imagem do dashboard sobre poluição do ar no estado de São Paulo."> 
 
-<img src="https://imgur.com/xFSuOa7" alt="Gif para representar o uso do filtros no dashboard sobre poluição do ar no estado de São Paulo.">
+<img src="https://imgur.com/a/9uWruE6.png" alt="Imagem do dashboard sobre poluição do ar no estado de São Paulo"> 
+
+<img src="https://imgur.com/a/1R3iEcr.gif" alt="Gif para representar o uso do filtros no dashboard sobre poluição do ar no estado de São Paulo">
+
+
+
