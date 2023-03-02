@@ -1,4 +1,4 @@
-# **Projeto: Planejamento Financeiro usado Caixinhas**
+# **Projeto: Planejamento Financeiro usando Caixinhas**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -18,11 +18,15 @@
 ```
 cd projeto_caixinhas/Scripts
 ```
-
+Para ativar o venv
 ```
 .\activate.bat
 ```
-
+Para rodar o programa
 ```
 python3 ./caixinhas.py
+```
+Para desativar o venv
+```
+deactivate
 ```
